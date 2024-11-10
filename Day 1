@@ -1,0 +1,50 @@
+Day 1: Introduction to Git
+
+● Objective: Learn the basics of Git, including version control, creating repositories, and managing changes.
+
+ Topics to Cover:
+● What is Git and why version control matters 
+● Setting up Git and basic Git commands 
+● Git workflows: cloning, staging, committing, and pushing 
+● Branching and merging basics 
+● Using GitHub for remote collaboration
+
+
+GIT(Global information tracker): Git is a distributed version control system. This is used to software development and Git stores the full history of  code
+It is a hosting service for software development it is used for storing tracking, and collaborating on different software projects 
+Version control system records all the changes made to a file or set of files so a specific version may be  called later if needed
+
+GIT work flow:
+•	Cloning creates a local copy of a remote repository on  computer. This allows  to start working on the code locally and later push your changes back to the remote repository
+•	Staging allows you to select which changes you want to include in the next commit.
+Git tracks the changes you make to files, but they won't be part of the commit history until you explicitly tell Git to include them in the next commit.
+•	Committing is the step where you save a snapshot of your staged changes. Each commit in Git represents a point in the history of your project, along with a message describing
+•	Pushing uploads your local commits to the remote repository, updating the remote history with your changes.
+
+Branching and Merging :
+branch in Git is a separate line of development. It allows you to work on different parts of a project without affecting the main project.
+Collaboration: Multiple people can work on different branches and then merge their changes back.
+
+Merging is the process of combining the changes from one branch into another
+
+Remote Collaboration:
+GitHub is one of the most popular platforms for remote collaboration in software development. It leverages Git  and provides a cloud-based platform for developers to collaborate on code, manage projects, and track changes.
+
+Activities:
+1. Install Git and set up a GitHub account. 
+2. Create a local repository, make some commits, and push to a GitHub epository.
+3. Practice branching, making changes on different branches, and merging them.
+4. Recommended resources: Git documentation and beginner tutorials on GitHub.
+
+Step 1: Install Git Hub:  Chrome _Download GitHub Desktop website _click download_ install _open download file _follow the installation prompts _sign in GitHub account
+sign up for GitHub: visit GitHub Website _click on "sine up" _Enter details (user name, email address, create a strong password) _ Verify account_ Choose a plan (free or paid_ set up profile) _Start using GitHub _ Completed the registration
+
+step 2: create a local repository: open GitHub desktop _go to “file” _” new repository” _file In the details (Name your repository _Choose a local path _ Optionally, initialize with a README) _Click  “create repository” 
+Make some commits:  add a file (create a file_ stage the file_ commit the changes) Modify the file (Edit the file _stage the changes _Commit  the changes)repeat the process for more commits_( view the commit history)
+Push to a GitHub repository: Create a new repository(signup_ select “new repository”_ choose a repository name and add description_ select whether you want the repository to be public or private_  click ”create repository”)_ create a file location_ check the current status_ stage the changes(git add)_  commit the changes(git commit)_ check the remote repository_ push changes to GitHub(git push)_ authentication_ verify the push
+
+Step 3: Practice branching: create a new branch_ check available branches_ work on your new branch _ stage and commit changes_ switch between branches_ merge a branch _resolve merge  conflicts _push the changes to GitHub
+making changes on different branches, and merging them: start the main branch_ create an  the first feature branch_ stage and commit changes for the first branch_ create the second feature branch_ stage and commit changes for the second branch_ merge changes from both branches into main_ push the merged changes to GitHub
+
+step 4: Recommended resources : Chatgpt.com ,GitHub tutorials, GitHub Docs
+
