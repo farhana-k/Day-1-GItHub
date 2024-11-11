@@ -199,16 +199,7 @@ Create Simple Routes: Define basic routes like /hello and /user/<username> to ha
 
 Build a Simple REST API: Create an API endpoint (e.g., /api/users) that returns data (like a list or dictionary) in JSON format using jsonify().
 
-Recommended Resources: Explore the official Flask Documentation and beginner tutorials like "Flask for Beginners" on YouTube for further learning.
-
-
- 
-
-
-
-
-
-
+Recommended Resources: Explore the official Flask Documentation and beginner tutorials like "Flask for Beginners" on YouTube for further -->
 
 
 
