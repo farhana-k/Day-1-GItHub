@@ -1,2 +1,14 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+Practice Python Basics:
+
+Write exercises focusing on functions, loops, and list comprehensions to strengthen your understanding of these fundamental concepts. Practice creating functions with different parameters, using loops for iteration, and applying list comprehensions to simplify your code.
+Explore NumPy:
+
+Work with NumPy arrays to practice creating, manipulating, and performing calculations. Explore array operations like addition, multiplication, and basic statistical functions (mean, median, etc.). You can experiment with multi-dimensional arrays and perform element-wise operations.
+Work with Pandas and Matplotlib:
+
+Load a small dataset (such as a CSV or Excel file) into a Pandas DataFrame. Practice exploring the data by using functions like .head(), .describe(), and .info() to understand its structure. Then, use Matplotlib to create basic plots, such as line plots or bar charts, to visualize trends in the data.
+Resources:
+
+For further learning and practice, refer to the official documentation for NumPy, Pandas, and Matplotlib for detailed examples and functions. Additionally, websites like LeetCode and HackerRank offer coding exercises to challenge and refine your Python skills. These resources will help you practice problem-solving and learn new techniques in Python.
+
+
